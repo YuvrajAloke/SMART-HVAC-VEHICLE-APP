@@ -1,16 +1,6 @@
-# google_maps_yt
+#SMART-HVAC-VEHICLE-APP
+A Smart AI Assisted vehicle HVAC Control Application (Flutter/dart) The application is a standalone mobile app designed to interface with vehicle HVAC systems, compatible with both iOS and Android devices. It integrates with in-vehicle systems and sensors to provide real-time climate control adjustments.
 
-A new Flutter project.
+#Product Functions:
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+• Voice-Controlled HVAC: Adjust climate settings using voice commands. • Weather-Based Adjustments: Automatically adjust climate settings based on real-time weather data. • User Profiles: Create and manage profiles with preset climate preferences. • Manual Control Interface: Manually adjust HVAC settings through a user-friendly interface.
